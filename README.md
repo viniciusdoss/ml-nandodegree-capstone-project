@@ -17,6 +17,8 @@
 * [jupyter](https://jupyter.org/)
 * [scikit-learn](https://scikit-learn.org/stable/)
 
+## Create a folder named *datasets* in root directory and save .csv file which can be downloaded in the link below.
+
 ## Link to download dataset: [Credit Cart Transactions](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 
 ## PDF files - Experiment Explanation
